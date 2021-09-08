@@ -1,0 +1,4 @@
+{
+    "MONGO_URI":"mongodb+srv://aymen2101:210194@cluster0.c32gc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "SECRETKEY" : "ADAN"
+}
